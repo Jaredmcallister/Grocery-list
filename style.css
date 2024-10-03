@@ -1,0 +1,48 @@
+#all-foods {
+    display: flex;
+    justify-content: center;
+}
+
+#Grocery-list {
+    color:aquamarine;
+    align-items: center;
+}
+
+#Canned {
+    color:brown
+}
+
+#cans{
+    border-style: dotted;
+}
+
+#Drinks{
+    border-style:ridge
+}
+
+#Drink-title{
+    color:cadetblue
+}
+#Pantry-items-title {
+    color: blueviolet;
+}
+
+#Freezer-items{
+    color:cadetblue
+}
+
+#Frozen-dinner-title{
+    color: darkcyan;
+}
+
+#Frozen-fruit{
+    border-style: double;
+}
+
+#Frozen-snacks{
+    border-style: dotted;
+}
+
+#Frozen-fruits{
+    color: cadetblue;
+}
