@@ -1,11 +1,8 @@
-#all-foods {
-    display: flex;
-    justify-content: center;
-}
+
 
 #Grocery-list {
     color:aquamarine;
-    align-items: center;
+    align-items: right;
 }
 
 #Canned {
@@ -14,14 +11,18 @@
 
 #cans{
     border-style: dotted;
+    background-color: aliceblue;
 }
 
 #Drinks{
-    border-style:ridge
+    border-style:ridge;
+    background-color: aliceblue;
 }
 
 #Drink-title{
-    color:cadetblue
+    color:cadetblue;
+    background-color: black;
+    
 }
 #Pantry-items-title {
     color: blueviolet;
@@ -37,12 +38,15 @@
 
 #Frozen-fruit{
     border-style: double;
+    background-color: aliceblue;
 }
 
 #Frozen-snacks{
     border-style: dotted;
+    background-color: aliceblue;
 }
 
 #Frozen-fruits{
     color: cadetblue;
 }
+
